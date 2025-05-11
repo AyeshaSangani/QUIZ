@@ -17,15 +17,14 @@ let allQuestion = [
          {answer : "HTML does supported audio vedio element", isCorrect : false },
        ]
     },
-       
-       {
-  question: "Which tag is used to create a hyperlink in HTML?",
-  option: [
-    { answer: "<a>", isCorrect: true },
-    { answer: "<link>", isCorrect: false },
-    { answer: "<href>", isCorrect: false },
-  ]
-},
+    {
+      question: "Which tag is used to create a hyperlink in HTML?",
+      option: [
+        { answer: "<a>", isCorrect: true },
+        { answer: "<link>", isCorrect: false },
+        { answer: "<href>", isCorrect: false },
+      ]
+    },
 ]
 
 let index = 0
